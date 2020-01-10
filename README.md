@@ -48,7 +48,7 @@ https://colab.research.google.com/drive/18yj5p1vF50_U4-X0iMf4eq-hzFWUg78z
 
 2. 安装最新的显卡驱动，可到 nvidia 官网下载。http://www.nvidia.cn/
 
-3. 下载 “GGzeroALL.rar”，解压到英文目录下，注意整个目录不能有中文和空格！！，否则不能正常上传训练棋谱到网站。
+3. 下载 “GGzeroALL.rar”，解压到英文目录下，注意整个目录不能有中文和空格！！，否则不能正常上传训练棋谱。
 
 4. 运行客户端训练程序 训练客户端.exe, 输入用户名和密码（输入时会自动注册），就可以正常训练了。
 
