@@ -57,15 +57,19 @@ https://colab.research.google.com/drive/18yj5p1vF50_U4-X0iMf4eq-hzFWUg78z
 # 常见问题 Q/A:
 
 1.  问：目前什么显卡可以运行ggzero?
+
     答：2G显存以上的N卡。 
 
 2.  问：不能正常训练，怎么办？
+
     答：点击：ggzero.exe, 在ggzero.exe的界面里，输入 go nodes 800 回车，如果ggzero.exe正常显示棋步了。就表明程序安装准确了。
     
 3.  问：如何用兵河加载引擎？
+
     答：先要能正常训练，然后用兵河加载 ggzero.exe.  
     
 4.  问：如何设置引擎的参数？
+
     答：根据自己的显卡配置，从 "引擎设置文件-下棋用" 目录下复制相应的设置的文件，到ggzero.exe目录下。
 
 如您还有其它问题，请加入QQ 讨论群号：779375937 
