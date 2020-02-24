@@ -18,11 +18,12 @@ http://bbs.ggzero.cn
 
 # GGzero 项目进展情况：
 
-  自评 ELO 达到了3700 分，弈天桃花岛9星（大概1060的显卡）！ 
+  弈天官方测试号：佳佳象棋一，佳佳象棋二，佳佳象棋三，佳佳象棋四，佳佳象棋五。
   
   ![](https://github.com/leedavid/leela-chess-to-Chinese-Chess/blob/master/lc0/20190904.png)
   
   GGzero 参加 第三届楚河汉界象棋人工智能第三名 
+  2019 年 北京人工智能大赛并列第二名
   
   机器配置： 
   
