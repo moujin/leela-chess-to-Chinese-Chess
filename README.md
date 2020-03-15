@@ -59,7 +59,7 @@ https://colab.research.google.com/drive/18yj5p1vF50_U4-X0iMf4eq-hzFWUg78z
 
 1.  问：目前什么显卡可以运行ggzero?
 
-    答：2G显存以上的N卡。 
+    答：2G显存以上的N卡可用cuda加速, 支持DX12的A卡，可用DX12方式加速。
 
 2.  问：不能正常训练，怎么办？
 
